@@ -1,0 +1,115 @@
+.background{
+    width: 99%;
+    height: 100%;
+    background-size: cover;
+    background-image: url(./pic/image.jpg);
+}
+.damn1{
+    z-index: 2;
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 104px solid transparent;
+    border-right: 66px solid transparent;
+    border-top: 205px solid transparent;
+    transform: rotate(-18deg);
+    position: absolute;
+    left: 521px;
+    top: 143px;
+}
+.damn2{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 78px solid transparent;
+    border-right: 94px solid transparent;
+    border-top: 207px solid transparent;
+    transform: rotate( 21deg);
+    position: absolute;
+    left: 619px;
+    top: 138px;
+}
+.damn3{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 107px solid transparent;
+    border-right: 85px solid transparent;
+    border-top: 237px solid transparent;
+    transform: rotate( -110deg);
+    position: absolute;
+    left: 454px;
+    top: 272px;
+}
+.damn4{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 122px solid transparent;
+    border-right: 66px solid transparent;
+    border-top: 222px solid transparent;
+    transform: rotate( 209deg);
+    position: absolute;
+    left: 533px;
+    top: 342px;
+}
+.damn5{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 120px solid transparent;
+    border-right: 74px solid transparent;
+    border-top: 229px solid transparent;
+    transform: rotate( -63deg);
+    position: absolute;
+    left: 441px;
+    top: 190px;
+}
+.damn6{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 144px solid transparent;
+    border-right: 68px solid transparent;
+    border-top: 246px solid transparent;
+    transform: rotate( 165deg);
+    position: absolute;
+    left: 624px;
+    top: 331px;
+}
+.damn7{
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 105px solid transparent;
+    border-right: 97px solid transparent;
+    border-top: 248px solid transparent;
+    transform: rotate( 68deg);
+    position: absolute;
+    left: 677px;
+    top: 164px;
+}
+.damn8{
+    z-index: 2;
+    background-color: transparent;
+    width: 0px;
+    height: 0px;
+    border-left: 181px solid transparent;
+    border-right: 45px solid transparent;
+    border-top: 257px solid transparent;
+    transform: rotate( 125deg);
+    position: absolute;
+    left: 696px;
+    top: 232px;
+}
+.char{
+    color: white;
+    width: 100%;
+    position: absolute;
+    left: 0%;
+    top: 75%;
+    height: 25%;
+    background-color: black;
+    font-size: 800%;
+    text-align: center;
+}
